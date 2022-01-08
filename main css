@@ -102,7 +102,7 @@ body {
 .banner {
     background-image: none !important;
     background-color: rgba(11, 12, 20, 0) !important;
-    height: auto !important;
+   
 }
 .banner .shadow{
     background: none !important;
@@ -271,7 +271,7 @@ h1.name {
     align-items: center;
     justify-content: center;
     display: grid;
-    padding-bottom: 340px;
+    padding-bottom: 40px;
 }
 .banner-content > .avatar
 {
