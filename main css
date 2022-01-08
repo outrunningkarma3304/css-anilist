@@ -278,13 +278,13 @@ h1.name {
     width: 0;
     height: 0;
     padding: 125px;
-    background: url("https://s4.anilist.co/file/anilistcdn/user/avatar/large/b5465935-QXdWdXyspFEd.jpg");
+    background: url("https://i.pinimg.com/564x/31/13/c5/3113c50bc3e435f746728d127706f2c6.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: 43% 55%;
     border-radius: 150%;
     transition: all 1s ease-in-out;
-    border: 6px solid #fff;
+  border: 6px solid rgb(0, 0, 0);
     z-index: 100;
 }
 .name-wrapper > .name
@@ -333,7 +333,7 @@ h1.name {
 }
 .banner-content:hover > .avatar
 {
-    background: url("https://s4.anilist.co/file/anilistcdn/user/avatar/large/b5465935-QXdWdXyspFEd.jpg");
+    background: url("https://i.pinimg.com/236x/74/b6/97/74b697271fb44191a49b6fb01f823586.jpg");
     transform: scale(1.1);
     width: 0;
     height: 0;
