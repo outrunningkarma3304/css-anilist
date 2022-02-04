@@ -560,3 +560,8 @@ h1.name {
   font-size: 15px;
   content: "\f27b";
 }
+
+.about > .content-wrap {
+  max-height: none !important;
+  }
+  
