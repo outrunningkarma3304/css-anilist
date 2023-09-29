@@ -118,7 +118,7 @@ body {
 
 /* favourites section hover */
 .favourite:hover {
-    transform: rotateZ(720deg);
+    transform: rotateZ(360deg);
     transform-origin: top;
     position: relative;
     transition: .0s;
