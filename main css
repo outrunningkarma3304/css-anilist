@@ -93,7 +93,7 @@
 
 /* Background image (change the URL to change the image) */
 body {
-    background: rgb(var(--color-background)) url("https://imgur.com/cmWl06U.png") center/100% fixed !important;
+    background: rgb(var(--color-background)) url("https://imgur.com/KWmCvyI.png") center/100% fixed !important;
     background-repeat: no-repeat !important;
     background-size: 100% auto !important;
 }
@@ -137,12 +137,12 @@ body {
 /* About section scrollbar */
 .user .about > div.content-wrap:hover {
     scrollbar-width: thin;
-    scrollbar-color: rgb(85, 9, 129) rgba(0, 0, 0, 0.95);
+    scrollbar-color: rgb(94, 65, 65) rgba(0, 0, 0, 0.95);
 }
 
 /* Anime/manga progress bar color */
 .bar {
-    background: linear-gradient(to right, #6619ca, #30034e 75%) !important;
+    background: linear-gradient(to right, #5c3939, #2e0d0e 75%) !important;
 }
 
 
@@ -163,7 +163,7 @@ body {
 
 /* Horizontal rule border settings */
 .markdown hr {
-    border: solid 1px rgb(93, 21, 151);
+    border: solid 1px rgb(66, 27, 27);
     border-radius: 1px;
 }
 
@@ -185,7 +185,7 @@ body {
 /* Changes scrollbar for whole page (Firefox)*/
 html {
     scrollbar-width: thin;
-    scrollbar-color: rgb(124, 15, 187) rgba(0, 0, 0, 0.95);
+    scrollbar-color: rgb(66, 27, 27) rgba(0, 0, 0, 0.95);
 }
 
 /* Chrome scrollbar */
@@ -195,10 +195,10 @@ html {
 }
 
 ::-webkit-scrollbar-corner {
-    background: #42077a;
+    background: #633636;
 }
 ::-webkit-scrollbar-thumb {
-    background: #6d4394;
+    background: #704b4b;
     -webkit-border-radius: 1ex;
 }
 
@@ -207,7 +207,7 @@ html {
     border-radius: 30px !important;
     font-family: 'Brush Script MT', cursive !important;
     font-size: 3rem !important;
-    color: rgb(122, 52, 179) !important;
+    color: rgb(77, 46, 46) !important;
     margin: auto !important;
     max-width: 200px !important;
 }
@@ -278,7 +278,7 @@ h1.name {
     width: 0;
     height: 0;
     padding: 125px;
-    background: url("https://imgur.com/jEh1rp9.png");
+    background: url("https://imgur.com/AtYlrvz.png");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: 43% 55%;
@@ -304,9 +304,9 @@ h1.name {
     transition: all 1s ease-in-out;
     top: 44%;
     left: 47.2%;
-    border: 2px solid rgb(26, 10, 46);
-    color: rgb(92, 31, 161);
-    background: #720fc4 !important;
+    border: 2px solid rgb(36, 6, 6);
+    color: rgb(77, 49, 49);
+    background: #6b3636 !important;
 }
 .banner-content > .actions
 {
@@ -322,9 +322,9 @@ h1.name {
     transition: all 1s ease-in-out;
     overflow: hidden;
     position: relative;
-    border: 2px solid rgb(35, 10, 51);
-    color: rgb(62, 16, 92);
-    background: #6c11a8 !important;
+    border: 2px solid rgb(38, 6, 6);
+    color: rgb(82, 33, 33);
+    background: #664040 !important;
 }
 .el-dropdown-menu.el-popper.el-dropdown-menu--small
 {
@@ -333,7 +333,7 @@ h1.name {
 }
 .banner-content:hover > .avatar
 {
-    background: url("https://imgur.com/E3hUdnF.png");
+    background: url("https://imgur.com/eBwNvA2.png");
     transform: scale(1.1);
     width: 0;
     height: 0;
@@ -347,7 +347,7 @@ h1.name {
 .banner-content:hover > .follower-badge
 {
     transform: translateX(-200px);
-    color: rgb(67, 11, 131);
+    color: rgb(51, 26, 26);
 }
 .banner-content:hover > .actions
 {
@@ -366,9 +366,9 @@ h1.name {
 .site-theme-dark .nav-unscoped.transparent,
 .site-theme-dark .nav-unscoped
 {
-    background: rgba(25, 3, 36, 0.9);
+    background: rgba(43, 34, 33, 0.9);
     color: white;
-    border: 1px solid #7d3ce6;
+    border: 1px solid #5e3a3a;
     border-top-width: 0px;
 }
 .site-theme-dark .nav-unscoped.transparent:hover
@@ -379,7 +379,7 @@ h1.name {
 #nav .link:hover
 {
     transform: scale(1.25);
-    color: #5510c4;
+    color: #4d2c2c;
 }
 .logo
 {
