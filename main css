@@ -522,7 +522,7 @@ h1.name {
   border-bottom: 2px solid rgba(0, 0, 0, 0);
   transition: 0.5s;
   padding: 15px 0px 15px 0px;
-  margin: 0px 30px;
+  margin: 0px 20px;
 }
 
 .header-wrap .nav-wrap .link:nth-child(1):before {
